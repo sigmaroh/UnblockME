@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1330402290 source:c:\users\manoj\desktop\sdl\gameengine\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<sstream>
+	<cmath>
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1330305938 source:c:\users\manoj\desktop\sdl\gameengine\xx.cpp
+	<iostream>
+
+1330402968 source:g:\gameengine\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<sstream>
+	<cmath>
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1330452468 source:e:\new folder\gameengine\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<sstream>
+	<cmath>
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+

@@ -1,0 +1,2 @@
+1. tala bata collison detection(60 by 180) ko lagi matrai..!!!
+2. key up properties

@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1330806940 source:h:\gameengine\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"declare.h"
+	"load.h"
+	"bar_declaration.h"
+	"load_func.h"
+	"load_from_file.h"
+	"check_collison.h"
+	<string>
+	<sstream>
+	<cmath>
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1330548394 h:\gameengine\timer.h
+
+1330547770 h:\gameengine\header.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<sstream>
+	<cmath>
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1330753396 h:\gameengine\declare.h
+	"declare.h"
+	<iostream>
+	"load_func.h"
+
+1330753386 h:\gameengine\load_func.h
+
+1330753414 h:\gameengine\load.h
+	"declare.h"
+	<iostream>
+	"load_func.h"
+
+1330756266 h:\gameengine\bar_declaration.h
+	<iostream>
+
+1330806786 h:\gameengine\load_from_file.h
+	<iostream>
+	<fstream>
+
+1330805706 h:\gameengine\check_collison.h
+
+1330810540 source:c:\users\sentiking\desktop\new folder\gameengine\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"declare.h"
+	"load.h"
+	"bar_declaration.h"
+	"load_func.h"
+	"load_from_file.h"
+	"check_collison.h"
+	<string>
+	<sstream>
+	<cmath>
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1330756996 c:\users\sentiking\desktop\new folder\gameengine\declare.h
+	"declare.h"
+	<iostream>
+	"load_func.h"
+
+1330756986 c:\users\sentiking\desktop\new folder\gameengine\load_func.h
+
+1330757014 c:\users\sentiking\desktop\new folder\gameengine\load.h
+	"declare.h"
+	<iostream>
+	"load_func.h"
+
+1330759866 c:\users\sentiking\desktop\new folder\gameengine\bar_declaration.h
+	<iostream>
+
+1330820720 c:\users\sentiking\desktop\new folder\gameengine\load_from_file.h
+	<iostream>
+	<fstream>
+
+1330809306 c:\users\sentiking\desktop\new folder\gameengine\check_collison.h
+

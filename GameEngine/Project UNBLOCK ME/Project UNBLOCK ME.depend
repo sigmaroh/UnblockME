@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1330035932 source:c:\users\manoj\desktop\sdl\project unblock me\starting.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<sstream>
+	<cmath>
+	<iostream>
+
+1330151724 source:h:\project unblock me\starting.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<sstream>
+	<cmath>
+	<iostream>
+
+1330323478 source:c:\users\prakash\desktop\project unblock me\starting.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<sstream>
+	<cmath>
+	<iostream>
+
+1330324838 source:g:\project unblock me\starting.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<sstream>
+	<cmath>
+	<iostream>
+
